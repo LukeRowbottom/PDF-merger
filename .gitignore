@@ -1,0 +1,13 @@
+# Projectspecifieke PDF-bestanden (bijlagen en hoofddocument)
+Bijlagen/
+Hoofddocument.pdf
+00_Oud/
+
+# OS bestanden
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tijdelijke bestanden
+*.tmp
+~$*
